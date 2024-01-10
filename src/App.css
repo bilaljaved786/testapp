@@ -1,5 +1,25 @@
 .App {
   text-align: center;
+  margin-top: 50px;
+}
+
+.Test {
+  color: blue;
+  background-color: yellow;
+  text-align: center;
+  padding: 2%;
+}
+
+.Navbar-ul {
+  list-style: none;
+  display: flex;
+  justify-content: right;
+  padding: 10px;
+  background-color:cornflowerblue;
+}
+
+.Navbar-ul li {
+  margin-right: 10px;
 }
 
 .App-logo {
@@ -11,6 +31,10 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.on-hover:hover {
+  color:yellow;
 }
 
 .App-header {
