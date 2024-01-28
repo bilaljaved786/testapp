@@ -3,8 +3,8 @@
 // import { useDispatch, useSelector } from 'react-redux';
 // import { Add_Number, Minus_Number } from './action';
 
-// // this is the BookContainer component called from App.js component
-// function BookContainer() {
+// // this is the BookContainerComponent component called from App.js component
+// function BookContainerComponent() {
 
 //     // using useSelector hook to access the state object from store
 //     const data = useSelector(state => state.numberOfBooks);
@@ -21,4 +21,4 @@
 //     )
 // }
 
-// export default BookContainer;
+// export default BookContainerComponent;
